@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.author-img {
+  height: 50px;
+  width: 50px;
+  border-radius: 40px;
+}
+
+.img-title {
+  height: 40vh;
+  width: 40vw;
+}
+
+.text-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 17px;
+}
+
+.row-msg {
+  display: flex;
+}
+
+.author {
+  margin-left: 15px;
+}
+
+.text {
+  color: #2f4f4f;
+}
+
+.heading {
+  font-size: 25px;
+}
